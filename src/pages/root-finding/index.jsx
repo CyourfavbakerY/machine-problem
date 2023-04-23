@@ -58,13 +58,13 @@ function Index() {
 
   return (
       <Box sx={rootContainer}>
-        <Box sx={headerContainer}>
+        {/* <Box sx={headerContainer}>
           <div className={cantarell.className}>
             <h1 style={{ fontSize: "3em" }}>
               MACHINE PROBLEM
             </h1>
           </div>
-        </Box>
+        </Box> */}
 
           <Box sx={formContainer}>
               <FormControl>
